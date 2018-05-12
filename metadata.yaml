@@ -1,0 +1,57 @@
+_repo: The-Red-Book-of-Heroes_19078
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Mills, Arthur Wallis
+    alias: Mills, A. Wallis (Arthur Wallis)
+    birthdate: 1878
+    deathdate: 1940
+    gutenberg_agent_id: '33263'
+    url: http://www.gutenberg.org/2009/agents/33263
+covers:
+- cover_type: archival
+  image_path: 19078-h/images/cover_large.jpg
+creator:
+  author:
+    agent_name: Lang, Mrs.
+    aliases:
+    - Lang, L. B. (Leonora Blanche)
+    - Lang, Mrs. Andrew
+    - Lang, Leonora Blanche
+    gutenberg_agent_id: '32153'
+    url: http://www.gutenberg.org/2009/agents/32153
+  editor:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: Heretofore Mr. Lang and his wife have dealt largely with folk-lore and
+  legendary romance; now they find it necessary to turn to reality. As a trade-mark,
+  they adhere to the rainbow nomenclature, but ' The red book of heroes ' claims to
+  be history, wherein the lives represented are marked by two dominant characteristics,
+  honor and courage.Accounts of such heroes as Florence Nightingale. John Howard the
+  philanthropist, Hannibal, Father Damien, the apostle of the lepers, the Marquis
+  of Montrose, the little Abbess, and others. "It would surely be an abnormal child
+  who would not welcome ' The red book of heroes ' among his Christmas gifts." - N.Y.
+  Times "Mrs. Lang has a very pretty story-telling gift of her own. while Mr. Lang
+  does his part in giving the books a background of scholarship." - The Outlook. This
+  book is fully illustrated and annotated with a rare extensive biographical sketch
+  of the author, Andrew Lang, written by Sir Edmund Gosse, CB, a contemporary poet
+  and writer.
+gutenberg_issued: '2006-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19078'
+  lccn: 09017962
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CT'
+- !lcsh 'Biography -- Juvenile literature'
+title: The Red Book of Heroes
+url: http://www.gutenberg.org/ebooks/19078
